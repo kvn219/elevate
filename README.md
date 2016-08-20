@@ -1,6 +1,7 @@
 # elevate
 
-Elevate: AAPI Data Challenge 
+# Elevate: AAPI Data Challenge 
+___
 
 [About the Challenge](http://sites.ed.gov/aapi/elevate-aapi-data-challenge/)
 
