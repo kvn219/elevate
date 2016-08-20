@@ -1,5 +1,6 @@
 # elevate
-Repository for - Elevate: AAPI Data Challenge 
+
+Elevate: AAPI Data Challenge 
 
 [About the Challenge](http://sites.ed.gov/aapi/elevate-aapi-data-challenge/)
 
