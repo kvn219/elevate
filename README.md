@@ -12,6 +12,7 @@ Data Source:
 
 The review panel will consider criteria such as the following:
 
+
 __Topical Relevance:__ 
 Does the application address Asian Americans and Pacific Islanders, either as racial groups, or with reference to any particular detailed origin group (such as Cambodian, Filipino, Samoan, etc.)?
 
