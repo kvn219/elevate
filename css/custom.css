@@ -1,0 +1,53 @@
+	body {
+		font: 0.8em 'Heebo', sans-serif;
+	}
+
+	select {
+		color: #ffffff;
+		font-size: 1.5em;
+		font-weight: bold;
+	width: 378px;
+	}
+
+	p {
+		font: 1.5em 'Heebo';
+	}
+
+	#disclaimer {
+		font: 10px 'Heebo';
+	}
+
+	h1 {
+		font: 26px 'Heebo';
+		font-weight: bold;
+	}
+
+
+	#areaList {
+}
+
+	.axis line,
+	.axis path {
+		fill: none;
+		stroke: #000;
+		shape-rendering: crispEdges;
+	}
+
+	.x {
+		font-size: 0;
+	}
+
+	rect {
+		stroke: #000;
+		stroke-opacity: .5;
+		stroke-width: .1;
+		fill-opacity: .8;
+	}
+
+	.label{
+		color: #000;
+	}
+
+	div{
+		margin-top:0.2em;
+	}
