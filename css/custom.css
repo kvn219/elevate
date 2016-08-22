@@ -1,24 +1,24 @@
 	body {
-		font: 0.8em 'Heebo', sans-serif;
+		font-size: 0.8em;
 	}
 
 	select {
 		color: #ffffff;
-		font-size: 3.5em;
+		font-size: 2.5em;
 		font-weight: bold;
 		width: 350px;
 	}
 
 	p {
-		font: 1.5em 'Heebo';
+		font-size: 1.5em; 
 	}
 
 	#disclaimer {
-		font: 10px 'Heebo';
+		font-size: 1.0em; 
 	}
 
 	h1 {
-		font: 26px 'Heebo';
+		font-size: 3.0em;
 		font-weight: bold;
 	}
 
@@ -50,4 +50,8 @@
 
 	div{
 		margin-top:0.2em;
+	}
+
+	.label{
+		font-size: 0.5em;
 	}
