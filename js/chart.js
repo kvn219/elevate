@@ -48,7 +48,7 @@ svg.append("rect")
 .attr("height", height)
 .style("fill-opacity", .01);
 
-// Load in Market Data
+// Load in Data
 d3.tsv("data.tsv", function(error, data) {
 
 data.forEach(function(d) {
@@ -155,8 +155,8 @@ d3.select("#selectSpot")
     .append("text")
     .attr("class", "label")
     .attr("text-anchor", "top")
-    .style("font-size", "12px")
-    .text("Click to see how the number of employed shift across ethnicity and race.");
+    .style("font-size", "14px")
+    .html("Click to see how the number of employed shift across ethnicity and race.");
 
 
 var select = d3.select("#areaList")
