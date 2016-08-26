@@ -5,7 +5,7 @@
 
 ###### By Kevin Nguyen | Perry K. Wong | Tracy Nguyen
 
-> By visualizing data from the National Science Foundation’s 2015 report “Women, Minorities, and Persons with Disabilities in Science and Engineering,” we attempted to gain a better comprehension of the influence of S&E education on employment. Understanding this relationship has far-reaching implications for educational funding; intuitively, we assume that state governments would prefer to allocate funding the fields most likely to result in employment. 
+> An emerging profression has changed the way we do research and problem solve in the 21st century.  By visualizing data from the National Science Foundation’s 2015 report “Women, Minorities, and Persons with Disabilities in Science and Engineering,” we attempted to gain a better comprehension of the influence of S&E education on employment. Understanding this relationship has far-reaching implications for educational funding; intuitively, we assume that state governments would prefer to allocate funding the fields most likely to result in employment. 
 
 [INTRO]
 
