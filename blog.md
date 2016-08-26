@@ -5,9 +5,9 @@
 
 ###### By Kevin Nguyen | Perry K. Wong | Tracy Nguyen
 
-The science and engineering (S&E) workforce is composed largely of people who earned S&E degrees over roughly four decades. Because older cohorts of S&E workers are disproportionately white and male, women and minorities constitute a smaller percentage of the overall S&E workforce than of degree recipients who recently joined the workforce or across the college-educated population as a whole. Likewise, persons with disabilities make up a smaller share of S&E employees even though disability can occur throughout one's life; disabilities acquired at birth or an early age is a possible influence on decisions to pursue S&E studies while disabilities acquired at later ages shape opportunities to continue or to seek employment.
+> By visualizing data from the National Science Foundation’s 2015 report “Women, Minorities, and Persons with Disabilities in Science and Engineering,” we attempted to gain a better comprehension of the influence of S&E education on employment. Understanding this relationship has far-reaching implications for educational funding; intuitively, we assume that state governments would prefer to allocate funding the fields most likely to result in employment. 
 
-By visualizing data from the National Science Foundation’s 2015 report “Women, Minorities, and Persons with Disabilities in Science and Engineering,” we attempted to gain a better comprehension of the influence of S&E education on employment. Understanding this relationship has far-reaching implications for educational funding; intuitively, we assume that state governments would prefer to allocate funding the fields most likely to result in employment. 
+[INTRO]
 
 Thanks to pstuffa, our graph conveys the distribution of the S&E workforce as compiled by survey data from the National Science Foundation (NSF) from 2013. To isolate for science and engineering, we used only numbers from rows 10 through 50 of the excel file, which are subheadings of the designated S&E occupations. Each bar represents an S&E occupation that is color coded by educational background or degree. In addition to visualizing the dataset of S&E employees by area of expertise, we added an interactive feature categorizing employment findings based on racial or ethnic background. 
 
