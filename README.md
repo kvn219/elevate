@@ -12,7 +12,7 @@ The White House Initiative on Asian Americans and Pacific Islanders (WHIAAPI), w
 
 ## Methodology [__here__](https://github.com/kvn219/elevate/blob/gh-pages/process_data.ipynb).
 
-![alt text](https://github.com/kvn219/elevate/blob/gh-pages/workflow.jpeg)
+![alt text](https://github.com/kvn219/elevate/blob/gh-pages/workflow.jpg)
 
 
 ## Data Source:
