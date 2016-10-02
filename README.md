@@ -10,7 +10,7 @@ The White House Initiative on Asian Americans and Pacific Islanders (WHIAAPI), w
 
 ![alt text](https://github.com/kvn219/elevate/blob/gh-pages/chart.gif)
 
-## [Methodology](https://github.com/kvn219/elevate/blob/gh-pages/process_data.ipynb).
+## [Methodology](https://github.com/kvn219/elevate/blob/gh-pages/process_data.ipynb)
 
 ![alt text](https://github.com/kvn219/elevate/blob/gh-pages/workflow.jpg)
 
