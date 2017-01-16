@@ -1,5 +1,4 @@
 # Elevate: AAPI Data Challenge 
-___
 
 When we think of the American scientist, we think of a story on demographics and change. Speaking in looser terms, we define that change not only in the context of scientific progress but also to societal progress. With the United State’s projected to become a majority-minority country by 2060, we wanted to know how we fit into this story. We decided to analyze recent survey data to assess the diversity of America’s STEM professionals. We had one simple question: Are AAPIs under or overrepresented in the science professions. Additionally, we wanted to know how if the number of employed AAPIs reflected national trends and if there were signs of barriers for working in the STEM professions for AAPIs. 
 
